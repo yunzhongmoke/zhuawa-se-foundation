@@ -1,0 +1,3 @@
+1.编写java的源代码
+2.javac编译，得到对应的.class 字节码文件
+3.java 运行，本质就是把.class加载到 JVM 运行
